@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>RAA_vALL_MODULE_02 - Command 1</Text>
+    <Description>Some description for RAA_vALL_MODULE_02</Description>
+    <Assembly>RAA_vALL_MODULE_02.dll</Assembly>
+    <FullClassName>RAA_vALL_MODULE_02.Command1</FullClassName>
+    <ClientId>1cb37aee-0f90-439b-8c2b-1239b8d22746</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>RAA_vALL_MODULE_02 - Command 2</Text>
+    <Description>Some description for RAA_vALL_MODULE_02</Description>
+    <Assembly>RAA_vALL_MODULE_02.dll</Assembly>
+    <FullClassName>RAA_vALL_MODULE_02.Command2</FullClassName>
+    <ClientId>c0e1fbf7-33d5-4411-b250-6e120a7e8158</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+  	<Text>RAA_vALL_MODULE_02 - Module02Challenge</Text>
+  	<Description>Some description for RAA_vALL_MODULE_02</Description>
+  	<Assembly>RAA_vALL_MODULE_02.dll</Assembly>
+  	<FullClassName>RAA_vALL_MODULE_02.Module02Challenge</FullClassName>
+  	<ClientId>2D2D6BAB-E006-4A55-AD44-AB1C098E2026</ClientId>
+  	<VendorId>com.YOUR COMPANY NAME</VendorId>
+  	<VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+  	<Text>RAA_vALL_MODULE_02 - Module02Challenge_Bonus</Text>
+  	<Description>Some description for RAA_vALL_MODULE_02</Description>
+  	<Assembly>RAA_vALL_MODULE_02.dll</Assembly>
+  	<FullClassName>RAA_vALL_MODULE_02.Module02Challenge_Bonus</FullClassName>
+  	<ClientId>DDD90AED-7EC9-472B-92C5-E491A836FA2B</ClientId>
+  	<VendorId>com.YOUR COMPANY NAME</VendorId>
+  	<VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>RAA_vALL_MODULE_02</Name>
+    <Assembly>RAA_vALL_MODULE_02.dll</Assembly>
+    <FullClassName>RAA_vALL_MODULE_02.App</FullClassName>
+    <ClientId>8f873b70-92a9-44e6-833f-6c2eb9432644</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
